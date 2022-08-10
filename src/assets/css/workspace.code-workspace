@@ -1,0 +1,31 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\reactmaterialui"
+		},
+		{
+			"path": "..\\..\\..\\..\\filter-and-pagination"
+		},
+		{
+			"path": "..\\..\\..\\..\\react-multi-step-form"
+		},
+		{
+			"path": "..\\..\\..\\..\\XeroPoint"
+		},
+		{
+			"path": "..\\..\\..\\..\\cliniva2"
+		},
+		{
+			"path": "..\\..\\..\\..\\blog-app"
+		},
+		{
+			"path": "..\\..\\..\\..\\app-routes"
+		},
+		{
+			"path": "..\\..\\..\\..\\coinfied"
+		}
+	]
+}
